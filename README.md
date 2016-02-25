@@ -1,2 +1,2 @@
-# VersionedRoute
-Versioning your Web API
+# Web API Versioning
+Check out [this](http://jeroenhildering.com) blogpost for instructions.
